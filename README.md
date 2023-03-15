@@ -47,5 +47,5 @@ git switch <rama_a_moverse>
 git merge prueba
 ```
 
-##Vamos a jugar!
+## Vamos a jugar!
 [Learn GIT Branching](https://learngitbranching.js.org/?locale=es_ES "Learn GIT Branching")
